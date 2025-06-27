@@ -18,12 +18,6 @@
 
 </div>
 
-### 🔬 Current Research & Development
-- **🤖 Autonomous AI Agent Systems** - Building intelligent agents with LangChain
-- **🤝 Multi-Agent Collaboration** - Developing CrewAI-based collaborative systems  
-- **⚡ Enterprise AI Pipelines** - Implementing scalable AI solutions for telecommunications
-- **🧠 Deep Learning & NLP** - Specializing in Legal AI & Healthcare AI applications
-
 ### 💡 What Drives Me
 *"I make AI agents that can work together better than humans! 🤖✨"*
 
