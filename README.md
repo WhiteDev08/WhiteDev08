@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Keshav Mukundan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%40+Reliance+Jio;Autonomous+Systems+Developer;Deep+Learning+Specialist;Building+Intelligent+Agents;VIT+Chennai+%7C+IIT+Madras" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Intern+%40+Reliance+Jio;Autonomous+Systems+Developer;Deep+Learning+Enthusiast;Building+Intelligent+Agents;VIT+Chennai+%7C+IIT+Madras" alt="Typing SVG" />
 </div>
 
 <div align="center">
