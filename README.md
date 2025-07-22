@@ -12,7 +12,7 @@
 
 <div align="center">
 
-**🎯 AI Intern @ Reliance Jio Infocomm**  
+**🎯 EX- AI Intern @ Reliance Jio Infocomm**  
 **🎓 VIT Chennai (CGPA: 9.18) | IIT Madras Data Science**  
 **📍 Chennai, India**
 
