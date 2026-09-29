@@ -1,193 +1,385 @@
-# Hi there! 👋 I'm Keshav Mukundan
+# 👋 Hi there! I'm Keshav Mukundan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Intern+%40+Reliance+Jio;Autonomous+Systems+Developer;Deep+Learning+Enthusiast;Building+Intelligent+Agents;VIT+Chennai+%7C+IIT+Madras" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Python-Focused+AI+Engineer;Generative+AI+Developer;Backend+%26+AI+Systems;Building+Production+AI+Applications;VIT+Chennai+Graduate" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=WhiteDev08&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WhiteDev08&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
+---
 
 ## 🤖 About Me
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
 
-**🎯 EX- AI Intern @ Reliance Jio Infocomm**  
-**🎓 VIT Chennai (CGPA: 9.18) | IIT Madras Data Science**  
-**📍 Chennai, India**
+### 🎓 VIT Chennai
 
-</div>
+**B.Tech**
 
-### 💡 What Drives Me
-*"I make AI agents that can work together better than humans! 🤖✨"*
+Electronics & Computer Engineering
 
-**Core Expertise:** Autonomous Systems • Multi-Agent AI • Deep Learning • NLP • Legal AI • Healthcare AI
+**CGPA: 9.20**
 
-## 🚀 Current Focus @ Reliance Jio
+</td>
 
-<div align="center">
+<td width="33%" align="center">
 
-![LangChain](https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge&logo=chainlink&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
-![Autonomous Systems](https://img.shields.io/badge/Autonomous_Systems-4169E1?style=for-the-badge&logo=autoprefixer&logoColor=white)
+### 💻 AI Engineer
 
-</div>
+**Python + GenAI**
 
-- 🔬 **Developing autonomous AI agent systems** using LangChain framework
-- 🤝 **Building multi-agent collaborative systems** with CrewAI for complex problem-solving
-- ⚡ **Implementing advanced AI pipelines** for enterprise environments
-- 🔗 **Focusing on agent communication protocols** and system integration
+LLMs • RAG • FastAPI
 
-## 🧠 AI & ML Tech Stack
+Backend Systems
 
-<div align="center">
+</td>
 
-### Core AI/ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+<td width="33%" align="center">
 
-### AI Frameworks & Tools
-![LangChain](https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge&logo=chainlink&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-0081CB?style=for-the-badge&logo=meta&logoColor=white)
+### 🏆 Certified
 
-### Data & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+**Google Cloud**
 
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+Generative AI Leader
 
-</div>
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Analytics
+I'm a **Python-focused AI Engineer** working primarily on **Generative AI and backend systems**.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WhiteDev08&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteDev08&layout=compact&langs_count=8&theme=radical"/>
-</div>
+I build production-oriented AI applications using **Python, FastAPI, LLMs, RAG, LangChain, LangGraph, vector databases, and knowledge graphs**.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhiteDev08&theme=radical" alt="GitHub Streak" />
-</div>
+Currently working as an **AI/ML Developer at Karkinos Healthcare**, building and deploying AI services and backend systems for healthcare workflows.
 
+---
 
-## 🚧 What I'm Building
-
-- 🔭 **Current Project**: Autonomous AI Agent Systems @ Reliance Jio
-- 🌱 **Learning**: Advanced Multi-Agent Systems & Enterprise AI Integration
-- 👯 **Collaborating**: AI-powered solutions for telecommunications
-- 🎯 **2025 Goals**: Deploy production-ready autonomous agents at scale
-- ⚡ **Research**: Agent communication protocols and intelligent automation
-
-## 🏆 Featured AI Projects
-
-<div align="center">
-  <a href="https://github.com/WhiteDev08/MovieSentiment-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteDev08&repo=MovieSentiment-AI&theme=radical" />
-  </a>
-  <a href="https://github.com/WhiteDev08/WeatherVibe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteDev08&repo=WeatherVibe&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/WhiteDev08/NutriBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteDev08&repo=NutriBot&theme=radical" />
-  </a>
-  <a href="https://github.com/WhiteDev08/Diagnowise">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WhiteDev08&repo=Diagnowise&theme=radical" />
-  </a>
-</div>
-
-## 🧪 Major AI Systems Built
-
-### 🏛️ **Legalytics** - AI-Powered Legal Assistant
-```yaml
-Tech Stack: Legal-BERT, FAISS, T5-small, OpenAI GPT, FastAPI, Next.js
-Features:
-  - Instant case insights with Legal-BERT + FAISS retrieval
-  - Bail prediction using Random Forest models
-  - Document summarization with fine-tuned T5
-  - Interactive legal chatbot with OpenAI GPT
-  - Secure authentication with Google OAuth
-```
-
-### 🧠 **ElevateAI** - Mental Wellness Platform  
-```yaml
-Tech Stack: ANN, Bi-Directional LSTM, GloVe, FastAPI, React
-Features:
-  - Personalized mental health predictions with ANN
-  - Contextual conversations using GloVe + Bi-LSTM
-  - LSTM-based sentiment analysis & forecasting
-  - Real-time mental health assistance
-  - Seamless React frontend interface
-```
-
-## 📈 AI Development Activity
-
-<!--START_SECTION:waka-->
-```text
-Python       15 hrs 34 mins  ████████████████░░░   78.2%
-Jupyter      2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░   13.8%
-JavaScript   1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░    6.1%
-YAML         23 mins         ░░░░░░░░░░░░░░░░░░░░░    1.9%
-```
-<!--END_SECTION:waka-->
-
-## 🎓 Education & Certifications
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### 🏫 **Current Education**
-![VIT](https://img.shields.io/badge/VIT_Chennai-B.Tech_ECE-FF6B35?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![IIT Madras](https://img.shields.io/badge/IIT_Madras-Data_Science_Diploma-1E88E5?style=for-the-badge&logo=graduation-cap&logoColor=white)
+### 🐍 Languages
 
-### 🏆 **AI Certifications**
-![IIT Madras](https://img.shields.io/badge/IIT_Madras-Data_Science_Foundations-1E88E5?style=for-the-badge&logo=certificate&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/SmartInternz-AI_using_TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ML](https://img.shields.io/badge/Udemy-Machine_Learning_A--Z-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+### 🧠 Generative AI
+
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C7C54?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+### ⚡ Backend
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
+
+### 🗄️ Databases & AI Infrastructure
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+<img src="https://img.shields.io/badge/FalkorDB-5B21B6?style=for-the-badge"/>
+
+### ☁️ Cloud & Infrastructure
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6B7280?style=for-the-badge"/>
 
 </div>
 
-## 🤝 Connect With Me
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🩺 Diagnowise
+
+### Agentic-AI Healthcare Platform
+
+A multi-agent healthcare platform designed around **diagnosis, medical reporting, appointment scheduling, and emergency response workflows**.
+
+**Highlights**
+
+- CrewAI + LangChain multi-agent workflows
+- Neo4j symptom-disease graph reasoning
+- Patient history analysis
+- Doctor-patient appointment scheduling
+- Voice-enabled emergency assistance
+- Redis-backed medical chatbot
+- Doctor & patient portals
+
+**Stack**
+
+`CrewAI` `LangChain` `OpenAI`  
+`Neo4j` `FastAPI` `Redis`
+
+<br>
+
+<a href="https://github.com/WhiteDev08/Diagnowise">
+<img src="https://img.shields.io/badge/VIEW_CODE-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔎 White Search
+
+### Event-Driven RAG Platform
+
+A production-style **Retrieval-Augmented Generation system** built around an event-driven microservice architecture.
+
+**Highlights**
+
+- FastAPI API layer
+- Kafka-based asynchronous processing
+- Stateful workflow tracking with MongoDB
+- Pinecone vector storage
+- LangChain RAG pipeline
+- Gemini-powered grounded answers
+- Streamlit frontend
+- Decoupled worker architecture
+
+**Stack**
+
+`FastAPI` `Kafka` `MongoDB`  
+`Pinecone` `LangChain` `Gemini`
+
+<br>
+
+<a href="https://github.com/WhiteDev08/White-Search">
+<img src="https://img.shields.io/badge/VIEW_CODE-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🛡️ MediShield AI
+
+### Adaptive Federated Learning Framework
+
+A privacy-preserving **Federated Learning framework for breast cancer classification using non-IID healthcare data**.
+
+**Highlights**
+
+- BreakHis breast cancer dataset
+- 3 non-IID federated clients
+- FedAvg vs FedProx comparison
+- Adaptive algorithm selection
+- AI Orchestrator across training rounds
+- Pinecone-based RAG context
+- Training behavior analysis
+- Structured explanation layer
+
+**Stack**
+
+`TensorFlow` `Flower` `LangGraph`  
+`RAG` `Pinecone` `FastAPI`
+
+<br>
+
+<a href="https://github.com/WhiteDev08/Medishield">
+<img src="https://img.shields.io/badge/VIEW_CODE-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 ElevateAI
+
+### Mental Wellness System
+
+A mental wellness platform combining **deep learning and conversational AI** for personalized wellness support.
+
+**Highlights**
+
+- ANN-based wellness prediction
+- GloVe word embeddings
+- Bi-LSTM conversational model
+- Neural-network intent classification
+- Sentiment analysis
+- FastAPI backend
+
+**Stack**
+
+`ANN` `Bi-LSTM` `GloVe`  
+`FastAPI` `Python`
+
+<br>
+
+<a href="https://github.com/WhiteDev08/ElevateAI">
+<img src="https://img.shields.io/badge/VIEW_CODE-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💼 Professional Experience
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+## 🏢 Karkinos Healthcare
+
+### AI/ML Developer · June 2026 – Present
+
+**Bangalore, India**
+
+- Engineered a call analysis pipeline processing **3,000+ patient calls**, handling transcription, multilingual summarization, sentiment analysis, and action-item extraction.
+- Built and deployed a **FastAPI-based Q&A and summarization pipeline** for large WGS reports, reducing token usage per call by **60%+**.
+- Integrated the company's internal AI framework across projects, working with LLM wrappers, agent management, OpenTelemetry-based tracing, guardrails, and DeepEval.
+- Worked with cross-functional teams to integrate AI services into production workflows, contributing to API design, backend integration, and system reliability.
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" valign="top">
+
+## 🏢 Karkinos Healthcare
+
+### Development Intern · August 2025 – May 2026
+
+**Chennai, India**
+
+- Built an AI-powered meeting summarization service using **FastAPI, Selenium, and LangGraph**.
+- Engineered a knowledge graph pipeline across **1,000+ diseases**, evaluating Neo4j against FalkorDB.
+- Built and deployed FastAPI backend services for AI-driven clinical workflows.
+- Diagnosed and resolved issues across APIs and data pipelines.
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" valign="top">
+
+## 🏢 Reliance Jio Platforms
+
+### AI Intern – Autonomous Systems · May 2025 – June 2025
+
+**Bangalore, India**
+
+- Developed backend-integrated AI agent systems using LangChain and CrewAI.
+- Worked on multi-agent architectures with API integration, fault tolerance, and execution reliability.
+- Improved API response handling and reduced workflow latency.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshavmukundan03@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-m-45317b24a)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WhiteDev08)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:7904000603)
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=WhiteDev08&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteDev08&layout=compact&langs_count=8&theme=radical" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WhiteDev08&theme=radical" />
 
 </div>
 
-## 🎯 AI Engineering Quote
+---
+
+# 🎓 Education & Certifications
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🎓 VIT Chennai
+
+**B.Tech**
+
+Electronics & Computer Engineering
+
+**CGPA: 9.20**
+
+2022 – 2026
+
+</td>
+
+<td width="50%" align="center">
+
+### 🏆 Google Cloud
+
+**Generative AI Leader**
+
+Google Cloud Certified
+
+<br>
+
+### 📚 IIT Madras
+
+**Data Science Foundations**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📫 Connect With Me
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
 
+<a href="mailto:keshavmukundan03@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/keshav-m-45317b24a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/WhiteDev08">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
 
-<div align="center">
-  <h3>🤖 Building the future with Artificial Intelligence! 🚀</h3>
-  <p><em>"Making machines intelligent, one algorithm at a time" - Keshav</em></p>
-  
-  ![](https://komarev.com/ghpvc/?username=WhiteDev08&color=blueviolet&style=for-the-badge)
-  ![](https://img.shields.io/github/followers/WhiteDev08?style=for-the-badge&color=orange)
-  ![](https://img.shields.io/github/stars/WhiteDev08?style=for-the-badge&color=yellow)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+### Building practical AI systems with Python, Generative AI, and backend engineering.
+
 </div>
